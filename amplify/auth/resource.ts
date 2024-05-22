@@ -9,8 +9,6 @@ export const auth = defineAuth({
         clientSecret: secret("GOOGLE_CLIENT_SECRET"),
       },
       callbackUrls: [
-        "http://localhost:3000/profile/",
-        "https://main.d3lxzouw11905v.amplifyapp.com/profile",
         "http://localhost:3000/",
         "https://main.d3lxzouw11905v.amplifyapp.com",
       ],
