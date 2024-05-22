@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@aws-amplify/ui-react": "^6.1.11",
+    "@google-apps/meet": "^0.3.0",
+    "@google-cloud/local-auth": "^2.1.0",
     "aws-amplify": "^6.3.2",
     "next": "^14.2.3",
     "react": "^18.3.1",
